@@ -1,5 +1,5 @@
 ---
-binary-buildpack/binary-buildpack-v1.0.13.zip:
-  object_id: 8b0e74d7-073d-44a3-a69f-82ba3d0da456
-  sha: 6fe4d6849959a16db7e66759f0cd36b5a858b3c2
-  size: 62975
+binary-buildpack/binary-buildpack-v1.0.14.zip:
+  object_id: d10af306-665c-457b-91ec-1cbc34675912
+  sha: 04822369d716467bf471eb5d4c6adf8627e71184
+  size: 63404
