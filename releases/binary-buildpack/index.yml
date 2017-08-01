@@ -16,4 +16,6 @@ builds:
     version: 1.0.12
   40ab1de4-0565-49ea-b582-5605174a5e9c:
     version: 1.0.13
+  60ccf72d-e55d-48a3-a541-11ccaee336f8:
+    version: 1.0.14
 format-version: '2'
