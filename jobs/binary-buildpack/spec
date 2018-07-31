@@ -3,6 +3,7 @@ name: binary-buildpack
 templates: {}
 
 packages:
-- binary-buildpack
+- binary-buildpack-cflinuxfs2
+- binary-buildpack-cflinuxfs3
 
 properties: {}
