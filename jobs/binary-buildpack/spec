@@ -7,5 +7,6 @@ packages:
 - binary-buildpack-cflinuxfs3
 - binary-buildpack-windows2012R2
 - binary-buildpack-windows2016
+- binary-buildpack-windows
 
 properties: {}
