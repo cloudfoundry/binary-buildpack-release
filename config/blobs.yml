@@ -8,6 +8,7 @@ binary-buildpack/binary-buildpack-cflinuxfs3-v1.0.27.zip:
   sha: 67800b792598e442a03f064bb42a3cc3677af704
 binary-buildpack/binary-buildpack-windows-v1.0.27.zip:
   size: 4346833
+  object_id: a5c3fa6e-7d4a-4765-6159-a199d459564d
   sha: d5086b63809508eafcf5366403c9cbff20a69305
 binary-buildpack/binary-buildpack-windows2012R2-v1.0.27.zip:
   size: 3624500
