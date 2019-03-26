@@ -1,20 +1,20 @@
-binary-buildpack/binary_buildpack-cflinuxfs2-v1.0.30.zip:
-  size: 4397197
-  object_id: 4a098623-aaae-4d05-4eed-7629b3fad35b
-  sha: 62f12c14b3e631ca44fcd93440d76cf35d44e6d5
-binary-buildpack/binary_buildpack-cflinuxfs3-v1.0.30.zip:
-  size: 4397194
-  object_id: 45ad1adc-0c4f-4099-4294-02953085d333
-  sha: bddaaba425d2210d6c247c328b19ea43a67eef5c
-binary-buildpack/binary_buildpack-windows-v1.0.30.zip:
-  size: 4397194
-  object_id: 3adc6e78-fb04-414d-64e0-fb7ad5a2ab90
-  sha: 3e9ab9007a8f0be7e178a4ce30e0486da6b048f0
-binary-buildpack/binary_buildpack-windows2012R2-v1.0.30.zip:
-  size: 4397197
-  object_id: 2504783c-719d-4cf8-4421-9c5f159909ac
-  sha: 53cd18d5a81d7d93fa9c720a3b3f626c316a2317
-binary-buildpack/binary_buildpack-windows2016-v1.0.30.zip:
-  size: 4397199
-  object_id: 9885c413-f6ca-463c-7982-9cc71bf500c4
-  sha: f69bae19ef26f06d1c038981e06b06a8f55aafd6
+binary-buildpack/binary_buildpack-cflinuxfs2-v1.0.31.zip:
+  size: 8612552
+  object_id: 2e606182-87e0-4a90-6c1c-ef8a2c34252f
+  sha: fa8bdf4e571067ec31a370c9e1e6cd678f524487
+binary-buildpack/binary_buildpack-cflinuxfs3-v1.0.31.zip:
+  size: 8612559
+  object_id: c83e5464-9104-47fe-5dcd-b9da643ca128
+  sha: 9ee88855873867379da4a5c7016886e62072050e
+binary-buildpack/binary_buildpack-windows-v1.0.31.zip:
+  size: 8612545
+  object_id: 96025d53-12b5-4c0b-57e6-d7d8a58d5769
+  sha: 05c033684eb4b953f9cc9f4a1d60dae20a69bb93
+binary-buildpack/binary_buildpack-windows2012R2-v1.0.31.zip:
+  size: 8612553
+  object_id: 49ac054b-3959-4e22-79dc-3ae2b35a8079
+  sha: 94ce3639cd4b478a48ad51a77aa849cee62cb075
+binary-buildpack/binary_buildpack-windows2016-v1.0.31.zip:
+  size: 8612551
+  object_id: 9f0c3b49-5753-4941-6707-a231c4affca5
+  sha: 8df37261e6c076b6d0b1231ba27c582b34d83e36
