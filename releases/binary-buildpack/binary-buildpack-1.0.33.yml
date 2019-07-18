@@ -1,0 +1,45 @@
+name: binary-buildpack
+version: 1.0.33
+commit_hash: d10fa7d
+uncommitted_changes: false
+jobs:
+- name: binary-buildpack
+  version: 36f2e1a89f196d5ec4196fbda0fd58fd0a4dee1bb87370b44b5ac182260911f1
+  fingerprint: 36f2e1a89f196d5ec4196fbda0fd58fd0a4dee1bb87370b44b5ac182260911f1
+  sha1: sha256:0659c057ed76bff760ede98e365724a27f0df1d8b06c5e107f0599a9a3715a67
+  packages:
+  - binary-buildpack-cflinuxfs2
+  - binary-buildpack-cflinuxfs3
+  - binary-buildpack-windows2012R2
+  - binary-buildpack-windows2016
+  - binary-buildpack-windows
+packages:
+- name: binary-buildpack-cflinuxfs2
+  version: e06245120a9bf95b9de2df120fcb73ab545c7a1523263abe75ccb7e13440e8c6
+  fingerprint: e06245120a9bf95b9de2df120fcb73ab545c7a1523263abe75ccb7e13440e8c6
+  sha1: sha256:91f6af08a72cdc7c61b69f31e437006454b3af187a698a6ba304241d5c97e5c9
+  dependencies: []
+- name: binary-buildpack-cflinuxfs3
+  version: de3dc006675233b34f689985c5508cd28c37f568539fe7a3d4bb2039f702518b
+  fingerprint: de3dc006675233b34f689985c5508cd28c37f568539fe7a3d4bb2039f702518b
+  sha1: sha256:a171f802098569f55b458c56aebd6ea8eabd0efd209303e1048e01683b8ae500
+  dependencies: []
+- name: binary-buildpack-windows
+  version: 758502981bb4ad9d8d258917800d72fcc385005f39a312b3451a422cbfe8b893
+  fingerprint: 758502981bb4ad9d8d258917800d72fcc385005f39a312b3451a422cbfe8b893
+  sha1: sha256:3972343750e9414411795678d5637b38694df896c3f252a1d59ad119855d0311
+  dependencies: []
+- name: binary-buildpack-windows2012R2
+  version: d4fdd76d4d31697ad4de0a5eea433efc1da8ca6812ced08c28f36309b0f27123
+  fingerprint: d4fdd76d4d31697ad4de0a5eea433efc1da8ca6812ced08c28f36309b0f27123
+  sha1: sha256:aa9cc52c6c8496c4c683cd69c3f2216b6ba9fd11c30fdecb3f8f458f4d0ab89d
+  dependencies: []
+- name: binary-buildpack-windows2016
+  version: ec7f62be820c9634359fb931d678b5d0617fb211d00afdb6af96bc59d5801a6d
+  fingerprint: ec7f62be820c9634359fb931d678b5d0617fb211d00afdb6af96bc59d5801a6d
+  sha1: sha256:0aea121cddc835dee6c0b762d6b739d45b2c3b7e34adcbf5580df264acae087c
+  dependencies: []
+license:
+  version: 2366c2faa2e09bf7264e06ff25b3a76c56491312b2195e024fff7a6edab73246
+  fingerprint: 2366c2faa2e09bf7264e06ff25b3a76c56491312b2195e024fff7a6edab73246
+  sha1: sha256:e11a82aca1e262ec642960299a34f28de73dafd0c7b5ca58adada086e27d206c
