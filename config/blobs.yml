@@ -14,3 +14,7 @@ binary-buildpack/binary_buildpack-windows2012R2-v1.0.33.zip:
   size: 9519934
   object_id: 6786bafb-ba90-42b2-58bb-6f11ab4d173b
   sha: sha256:6f312bf165849fd1f899b2ecfae93b35a72b9bf1753b1f07d629fa366ca8a103
+binary-buildpack/binary_buildpack-windows2016-v1.0.33.zip:
+  size: 9519929
+  object_id: 688afee9-5f4f-42e1-65a1-f9f99325978b
+  sha: sha256:ceaf5ffcccf0283c6d07f94279fc9be248377510eb3b61e85290293a2150bcb8
