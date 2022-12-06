@@ -1,0 +1,39 @@
+name: binary-buildpack
+version: 1.1.0
+commit_hash: 97636af
+uncommitted_changes: false
+jobs:
+- name: binary-buildpack
+  version: ec99ffa7a819f640a409d5e4ff32a4a3b8969c07774abf18f903eff7cc6a0f3c
+  fingerprint: ec99ffa7a819f640a409d5e4ff32a4a3b8969c07774abf18f903eff7cc6a0f3c
+  sha1: sha256:350c3cd5f286b024698476679a667a0219c667fbf30ade0558e9a31346339ec4
+  packages:
+  - binary-buildpack-cflinuxfs3
+  - binary-buildpack-cflinuxfs4
+  - binary-buildpack-windows2016
+  - binary-buildpack-windows
+packages:
+- name: binary-buildpack-cflinuxfs3
+  version: 4e1c617997b8538bbff81cb998e7e31994d19e67474d918dad323d3f1af5a7a3
+  fingerprint: 4e1c617997b8538bbff81cb998e7e31994d19e67474d918dad323d3f1af5a7a3
+  sha1: sha256:12768a6d369c0c0be29d23cad92669d60452d86c6a3555184773a4555e521ac4
+  dependencies: []
+- name: binary-buildpack-cflinuxfs4
+  version: f04ccc7c786a72506113668d861e896cff3b54415a5e2da28a173f56cdc4490f
+  fingerprint: f04ccc7c786a72506113668d861e896cff3b54415a5e2da28a173f56cdc4490f
+  sha1: sha256:078967926f57a7f932163becbf79e3505a44441c422baee1d52e64d615572366
+  dependencies: []
+- name: binary-buildpack-windows
+  version: f7bdcea88216249cf2992fd1789480003b779a239b8f92ce3b5bb370553bb0c3
+  fingerprint: f7bdcea88216249cf2992fd1789480003b779a239b8f92ce3b5bb370553bb0c3
+  sha1: sha256:ded4bc9dcc463f0f149619eb32f7ecd56f1a1c5532dc3e35d4fbf17bff21bf3b
+  dependencies: []
+- name: binary-buildpack-windows2016
+  version: f715bbdadb52e41c7d14e959dcea4d6e68dd7f84e715913df39aecd40774ebdf
+  fingerprint: f715bbdadb52e41c7d14e959dcea4d6e68dd7f84e715913df39aecd40774ebdf
+  sha1: sha256:1fcc5f41561083ceb58da299e2f78ffe0f36e4f6769a41fa2b2cf3adfc9ef16f
+  dependencies: []
+license:
+  version: 2366c2faa2e09bf7264e06ff25b3a76c56491312b2195e024fff7a6edab73246
+  fingerprint: 2366c2faa2e09bf7264e06ff25b3a76c56491312b2195e024fff7a6edab73246
+  sha1: sha256:e11a82aca1e262ec642960299a34f28de73dafd0c7b5ca58adada086e27d206c
