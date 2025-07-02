@@ -2,10 +2,10 @@ binary-buildpack/binary_buildpack-cflinuxfs3-v1.1.15.zip:
   size: 6908436
   object_id: 5cefd9bc-37ab-4d74-7fe5-01228823905e
   sha: sha256:3f49e2f1794e56e5d0f2c95e627382a2fc23c060cd905e17c61470ae622edf83
-binary-buildpack/binary_buildpack-cflinuxfs4-v1.1.20.zip:
-  size: 7630837
-  object_id: 4298193a-3760-471e-49d3-8ed38735895d
-  sha: sha256:091c2a0d47b286ff05e819eea07a922344aa8a73cd3945d9760fcfba915e564c
+binary-buildpack/binary_buildpack-cflinuxfs4-v1.1.21.zip:
+  size: 7630860
+  object_id: 941fa826-a799-4cf0-6383-5cffd0c58d64
+  sha: sha256:108062fe97d9bc088c1453862b00648acb984491903f49dd2e8c50359b5a671c
 binary-buildpack/binary_buildpack-windows-v1.1.15.zip:
   size: 6908438
   object_id: 60e6d9e7-b1de-457b-7408-46fc277c8990
