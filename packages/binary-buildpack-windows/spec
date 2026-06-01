@@ -1,4 +1,0 @@
----
-name: binary-buildpack-windows
-files:
-- binary-buildpack/binary?buildpack-windows-v*.zip
