@@ -4,6 +4,7 @@ templates: {}
 
 packages:
 - binary-buildpack-cflinuxfs4
+- binary-buildpack-cflinuxfs5
 - binary-buildpack-windows
 
 properties: {}
