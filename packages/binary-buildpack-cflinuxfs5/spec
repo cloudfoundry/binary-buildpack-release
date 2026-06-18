@@ -1,0 +1,4 @@
+---
+name: binary-buildpack-cflinuxfs5
+files:
+- binary-buildpack/binary?buildpack-cflinuxfs5-v*.zip
